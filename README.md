@@ -1,9 +1,9 @@
 # StudyOS Ham Radio Technician
 
-Static StudyOS quiz engine for the 2026-2030 Technician amateur radio question pool.
+Static StudyOS quiz engine for the 2026–2030 Technician amateur radio question pool.
 
-Target path:
+## Live quiz
 
-https://studyos.tech/ham-radio/technician/
+https://studyosapp.github.io/StudyOS-HamRadio-Technician/
 
-The app is hosted from `ham-radio/technician/index.html` so the custom domain can serve it at the requested path.
+The application is published from `index.html` using GitHub Pages.
